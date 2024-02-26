@@ -7,7 +7,7 @@ https://link.springer.com/article/10.1007/s10278-023-00930-w
 
 #========================train=========================
 #DATA
-Prepare your own datasets for VAN
+Prepare your own datasets for IVPSQA
 
 You need to create at least two modality medical images from domain A /data/A and from domain B /data/B. Then you can train the model with the dataset flag --root1 './data/A' --root2 './data/B'. Optionally, you can create hold-out test datasets at ./data/A_test and ./data/B_test to test your model.
 
