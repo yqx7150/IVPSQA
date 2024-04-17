@@ -54,7 +54,7 @@ python test.py --task=1to1 --out_path="./exps/" --ckpt="./exps/1to1/checkpoint/l
     
   * Variable augmented neural network for decolorization and multi-exposure fusion [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S1566253517305298)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DecolorNet_FusionNet_code)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)   
    
-
+  * Temporal Image Sequence Separation in Dual-tracer Dynamic PET with an Invertible Network [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DTS-INN)   
 
 
 
